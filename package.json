@@ -23,10 +23,15 @@
     "youch-terminal": "^1.1.1"
   },
   "dependencies": {
+    "@adonisjs/auth": "^8.0.6",
     "@adonisjs/core": "^5.1.8",
+    "@adonisjs/lucid": "^15.0.1",
     "@adonisjs/repl": "^3.1.4",
+    "luxon": "^1.27.0",
+    "phc-argon2": "^1.1.1",
     "proxy-addr": "^2.0.7",
     "reflect-metadata": "^0.1.13",
-    "source-map-support": "^0.5.19"
+    "source-map-support": "^0.5.19",
+    "sqlite3": "^5.0.2"
   }
 }
